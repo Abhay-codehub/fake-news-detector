@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...I am an aviation enthusiast with tech head , also an absolute extrovert
 --> Abhay-codehub
+
+
+
+
+
+
+
+
+[![Abhay-codehub's GitHub | Stats](https://stats.quine.sh/Abhay-codehub/github?theme=dark)](https://quine.sh)
