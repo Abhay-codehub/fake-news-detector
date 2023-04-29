@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Machine learning and research
 - 📫 How to reach me: ...ping me on linkedin "https://www.linkedin.com/in/abhay-prasad-112306267/" ---> copy me
 - 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...I am an aviation enthusiast with tech head , also an absolute extrovert
+- ⚡ Fun fact: ...I am an aviation enthusiast with tech head
 --> Abhay-codehub
 
 
