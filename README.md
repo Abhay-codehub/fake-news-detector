@@ -3,10 +3,11 @@
 <!--
 **Abhay-codehub/Abhay-codehub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
-- 📫 How to reach me: ...ping me on linkedin "https://www.linkedin.com/in/abhay-prasad-112306267/" ---> copy me
+- 📫 How to reach me: ...ping me on linkedin "https://www.linkedin.com/in/abhay-prasad-112306267/"
 - 😄 Pronouns: ...he/him
+- Open to work - full time/ internships.
 - ⚡ Fun fact: ...I am an aviation enthusiast with tech head
 - - 🔭 I’m currently working on ...Cloud Computing and Image augmentation using machine Learning
 - 🌱 I’m currently learning ...NLP and Scala
